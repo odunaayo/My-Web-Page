@@ -1,0 +1,227 @@
+body {
+background-color:white;
+
+position: relative;
+width: 1401px;
+height: 1800px;
+
+}
+.rectangle{
+position: absolute;
+width: 484px;
+height: 903px;
+left: 0px;
+top: 0px;
+
+
+background-color: #A60050;
+}
+.image-1{
+ position: absolute;
+width: 469px;
+height: 693px;
+left: 232px;
+top: 134px;
+background-color: url(image.png);
+ 
+}
+.line{
+position: absolute;
+width: 179px;
+height: 0px;
+left: 600px;
+top: 227px;
+border: 8px solid #A60050;
+
+}
+.name{
+position: absolute;
+width: 539px;
+height: 130px;
+left: 700px;
+top: 240px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 94px;
+line-height: 41px;
+}
+.text{
+position: absolute;
+width: 456px;
+height: 277px;
+left: 700px;
+top: 384px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 25px;
+text-align:justify;
+color: #000000;
+}
+.click{
+position: absolute;
+width: 120px;
+height: 50px;
+left: 700px;
+top: 720px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 25px;
+color: #FFFFFF;
+background-color: #A60050;
+
+}
+.text1{
+position: absolute;
+width: 269px;
+height: 46px;
+left: 235px;
+top: 1016px;
+margin: 30px 0px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 25px;
+color: #000000;
+
+}
+.text-2{
+    
+position: absolute;
+width: 623px;
+height: 50px;
+left: 237px;
+top: 1076px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 25px;
+color: #000000;
+
+}
+.image-2{
+    position: absolute;
+width: 263px;
+height: 759px;
+left: 985px;
+top: 984px;
+
+background-color: url(image.png);
+}
+.rectangle2{
+position: absolute;
+width: 254px;
+height: 763px;
+left: 954px;
+top: 1009px;
+
+border: 6px solid #A60050;
+box-sizing: border-box;
+}
+.your_name1 {
+    
+position: absolute;
+width: 666px;
+height: 52px;
+left: 233px;
+top: 1153px;
+background: #F2F2F2;
+border-radius: 5px;
+border:none;
+}
+.your_name2{
+    
+position: absolute;
+width: 666px;
+height: 52px;
+left: 233px;
+top: 1217px;
+border:none;
+background: #F2F2F2;
+border-radius: 5px;
+}
+.your_name3{
+position: absolute;
+width: 666px;
+height: 269px;
+left: 233px;
+top: 1281px;
+text-align:justify;
+background-color: #F2F2F2;
+border-radius: 5px;
+border:none;
+
+}
+.click_1{
+position: absolute;
+width: 100px;
+height: 46px;
+left: 797px;
+top: 1589px;
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 22px;
+border: none;
+display: flex;
+align-items: flex-end;
+letter-spacing: 1px;
+background-color:#A60050;
+
+color: #F9F9F9;
+
+}
+.call{
+ position: absolute;
+width: 99px;
+height: 25px;
+left: 233px;
+top: 1698px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 25px;
+color: #333333;
+}
+.fb{  
+position: absolute;
+width: 26px;
+height: 26px;
+left: 233px;
+top: 1734px;
+}
+.twitter{
+    position: absolute;
+width: 26px;
+height: 26px;
+left: 300px;
+top: 1734px;
+
+background: url(image.png);
+}
+.git{
+    position: absolute;
+width: 26.68px;
+height: 26px;
+left: 266px;
+top: 1734px;
+
+background: url(image.png);
+}
+.slack{
+    position: absolute;
+width: 101.55px;
+height: 26px;
+left: 333px;
+top: 1734px;
+
+background: url(image.png);
+}
